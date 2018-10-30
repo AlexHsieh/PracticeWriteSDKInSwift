@@ -1,0 +1,16 @@
+PODS:
+  - TimeAPI (0.1.0)
+
+DEPENDENCIES:
+  - TimeAPI (from `../`)
+
+EXTERNAL SOURCES:
+  TimeAPI:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TimeAPI: ff0f4154a87fcb2fe9f39414e6dd20bbcdb3c526
+
+PODFILE CHECKSUM: 925344334a41e4bbf7eda27d2e3a4b1c20c53a8a
+
+COCOAPODS: 1.5.3

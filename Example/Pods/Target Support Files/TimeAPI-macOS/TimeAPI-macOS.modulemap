@@ -1,0 +1,6 @@
+framework module TimeAPI {
+  umbrella header "TimeAPI-macOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

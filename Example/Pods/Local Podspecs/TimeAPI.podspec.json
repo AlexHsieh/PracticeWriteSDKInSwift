@@ -1,0 +1,23 @@
+{
+  "name": "TimeAPI",
+  "version": "0.1.0",
+  "summary": "A short description of TimeAPI.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/alex.kyhsieh@gmail.com/TimeAPI",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "alex.kyhsieh@gmail.com": "alex.kyhsieh@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/alex.kyhsieh@gmail.com/TimeAPI.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0",
+    "osx": "10.14"
+  },
+  "source_files": "TimeAPI/Classes/**/*"
+}
